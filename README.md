@@ -1,6 +1,7 @@
 # Spring Boot Registration/Login Form
 * A simple task in the hiring process for vodafone Integration Engineer position.
 * Try it from [here](https://spring-boot-login.onrender.com)
+* And you can download the jar file from [here](https://github.com/MohamedRagaab/Vodafone-Registration-Login-Task/blob/main/target/app.jar)
 ## Languages and frameworks 📑
 * Java
 * Spring Boot
